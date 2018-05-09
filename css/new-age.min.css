@@ -9,7 +9,7 @@ body {
 }
 
 a {
-    color: #fdcc52;
+    color: #212529;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s
@@ -17,7 +17,7 @@ a {
 
 a:focus,
 a:hover {
-    color: #fcbd20
+    color: black
 }
 
 hr {
@@ -361,11 +361,11 @@ section.contact ul.list-social li.social-twitter a:hover {
 }
 
 section.contact ul.list-social li.social-facebook a {
-    background-color: #3b5998
+    background-color: #9fae37
 }
 
 section.contact ul.list-social li.social-facebook a:hover {
-    background-color: #344e86
+    background-color: #92a033
 }
 
 section.contact ul.list-social li.social-google-plus a {
