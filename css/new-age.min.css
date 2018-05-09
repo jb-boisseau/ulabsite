@@ -408,6 +408,11 @@ footer ul li a:hover {
     background: #f6d73a !important;
 }
 
+.partenaires
+{
+    width: 100%;
+}
+
 .text-primary {
     color: #fdcc52
 }
