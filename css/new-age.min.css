@@ -21,6 +21,15 @@ a {
     transition: all .35s
 }
 
+.img-u-tools,
+.img-u-create,
+.img-u-learn,
+.img-u-lab
+{
+    border-radius: 5%;
+    padding-bottom: 2%;
+}
+
 a:focus,
 a:hover {
     color: black
