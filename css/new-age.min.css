@@ -407,7 +407,7 @@ footer ul li a:hover {
 
 .bg-primary {
 
-    background: #f6d73a;
+    background: #f6d73a !important;
 
 }
 
