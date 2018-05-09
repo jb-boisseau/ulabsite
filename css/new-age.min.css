@@ -9,7 +9,11 @@ body {
 }
 
 a {
+<<<<<<< HEAD
     color: #F6D73A;
+=======
+    color: #212529;
+>>>>>>> 7b39d485b24d03de50167113385810f5719ed3be
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s
@@ -407,6 +411,7 @@ footer ul li a:hover {
 .bg-primary {
 
     background: #f6d73a;
+
 }
 
 .text-primary {
