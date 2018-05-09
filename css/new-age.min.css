@@ -65,7 +65,7 @@ section h2 {
     font-family: Catamaran, Helvetica, Arial, sans-serif;
     font-weight: 200;
     letter-spacing: 1px;
-    background: url(../img/header.png) no-repeat
+    border-bottom : 2px solid 
 }
 
 #mainNav .navbar-brand {
@@ -465,3 +465,6 @@ footer ul li a:hover {
     background: url('img/header.png')no-repeat;
 }
 
+.partenaires {
+    width : 200px;
+}
