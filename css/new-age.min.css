@@ -9,11 +9,7 @@ body {
 }
 
 a {
-<<<<<<< HEAD
     color: #F6D73A;
-=======
-    color: #212529;
->>>>>>> 7b39d485b24d03de50167113385810f5719ed3be
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s
@@ -68,7 +64,8 @@ section h2 {
     transition: all .35s;
     font-family: Catamaran, Helvetica, Arial, sans-serif;
     font-weight: 200;
-    letter-spacing: 1px
+    letter-spacing: 1px;
+    background: url(../img/header.png) no-repeat
 }
 
 #mainNav .navbar-brand {
@@ -162,8 +159,8 @@ header.masthead {
     padding-top: 150px;
     padding-bottom: 100px;
     color: black;
-    background: url(../img/header.png) no-repeat;
-   /* background: url(../img/bg-pattern.png), -webkit-linear-gradient(to left, #7b4397, #dc2430);
+    
+   /*background: url(../img/bg-pattern.png), -webkit-linear-gradient(to left, #7b4397, #dc2430);
     background: url(../img/bg-pattern.png), linear-gradient(to left, #7b4397, #dc2430)*/
 }
 
@@ -460,5 +457,6 @@ footer ul li a:hover {
 }
 
 .navbar {
-    background: url('img/header.png');
+    background: url('img/header.png')no-repeat;
 }
+
