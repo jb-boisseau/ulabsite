@@ -413,7 +413,8 @@ footer ul li a:hover {
 
 .partenaires
 {
-    width: 100%;
+	max-height: 100px;
+    width: auto;
 }
 
 .text-primary {
@@ -465,6 +466,8 @@ footer ul li a:hover {
     background: url('img/header.png')no-repeat;
 }
 
-.partenaires {
-    width : 200px;
+.col-lg-3
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
