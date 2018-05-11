@@ -258,6 +258,7 @@ section.download .badges .badge-link img {
 .iiii {
     background-color: #efeeed;
     padding: 0px;
+    margin-top: 5.5%;
 }
 
 section.features .section-heading {
@@ -498,4 +499,9 @@ footer ul li a:hover {
 {
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.presentationplateforme
+{
+    background-color: #efeeed;
 }
