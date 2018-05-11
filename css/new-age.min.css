@@ -23,7 +23,13 @@ a {
 
 .img-u-tools,
 .img-u-create,
-.img-u-learn,
+.img-u-learn
+{
+    border-radius: 5%;
+    padding-bottom: 2%;
+    filter: grayscale(90%);
+}
+
 .img-u-lab
 {
     border-radius: 5%;
