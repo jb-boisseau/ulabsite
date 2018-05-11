@@ -262,7 +262,7 @@ section.download .badges .badge-link img {
 }
 
 section.features .section-heading {
-    margin-bottom: 100px
+    margin-bottom: 50px
     
 }
 
@@ -291,8 +291,8 @@ section.features .device-container {
 }
 
 section.features .feature-item {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     text-align: center
 }
 
