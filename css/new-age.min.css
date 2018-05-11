@@ -131,7 +131,7 @@ section h2 {
 @media (min-width:992px) {
     #mainNav {
         border-color: transparent;
-        background-color: transparent
+        background-color: white;
     }
     #mainNav .navbar-brand {
         color: fade(white, 50%)
@@ -258,7 +258,7 @@ section.download .badges .badge-link img {
 .iiii {
     background-color: #efeeed;
     padding: 0px;
-    margin-top: 5.5%;
+    margin-top: 7%;
 }
 
 section.features .section-heading {
@@ -506,6 +506,10 @@ footer ul li a:hover {
     background-color:none;
 }
 
+#titreplateforme,
 #contactnous {
     font-size: 30px;
+    font-family: Catamaran;
+    font-weight: 200;
+    letter-spacing: 1px;
 }
